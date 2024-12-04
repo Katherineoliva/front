@@ -1,0 +1,200 @@
+[
+    {
+        "id": 0,
+        "titulo": "Café Aroma",
+        "foto": "https://picsum.photos/id/237/200/300",
+        "descripcion": "Especialistas en café de alta calidad y repostería artesanal.",
+        "estado": "aceptado",
+        "dueno": "Carlos Pérez",
+        "correo": "carlos.perez@cafe-aroma.com"
+    },
+    {
+        "id": 1,
+        "titulo": "Tech Solutions",
+        "foto": "https://picsum.photos/id/238/200/300",
+        "descripcion": "Servicios de consultoría y desarrollo tecnológico para empresas.",
+        "estado": "aceptado",
+        "dueno": "Ana Torres",
+        "correo": "ana.torres@techsolutions.com"
+    },
+    {
+        "id": 2,
+        "titulo": "Green Gardens",
+        "foto": "https://picsum.photos/id/239/200/300",
+        "descripcion": "Diseño y mantenimiento de jardines ecológicos y sostenibles.",
+        "estado": "aceptado",
+        "dueno": "Jorge Ramírez",
+        "correo": "jorge.ramirez@greengardens.com"
+    },
+    {
+        "id": 3,
+        "titulo": "Delicias Bakery",
+        "foto": "https://picsum.photos/id/240/200/300",
+        "descripcion": "Panadería y pastelería con recetas tradicionales y sabores únicos.",
+        "estado": "aceptado",
+        "dueno": "Lucía Gómez",
+        "correo": "lucia.gomez@deliciasbakery.com"
+    },
+    {
+        "id": 4,
+        "titulo": "EcoHome",
+        "foto": "https://picsum.photos/id/241/200/300",
+        "descripcion": "Soluciones ecológicas para el hogar, con productos biodegradables.",
+        "estado": "aceptado",
+        "dueno": "Roberto Martínez",
+        "correo": "roberto.martinez@ecohome.com"
+    },
+    {
+        "id": 5,
+        "titulo": "Artesanías XD",
+        "foto": "https://picsum.photos/id/242/200/300",
+        "descripcion": "Artesanías modernas con un toque único y creativo.",
+        "estado": "aceptado",
+        "dueno": "Laura Sánchez",
+        "correo": "laura.sanchez@artesaniasxd.com"
+    },
+    {
+        "id": 6,
+        "titulo": "Urban Fitness",
+        "foto": "https://picsum.photos/id/243/200/300",
+        "descripcion": "Gimnasio moderno con clases de entrenamiento funcional y yoga.",
+        "estado": "aceptado",
+        "dueno": "Fernando López",
+        "correo": "fernando.lopez@urbanfitness.com"
+    },
+    {
+        "id": 7,
+        "titulo": "EcoPets",
+        "foto": "https://picsum.photos/id/244/200/300",
+        "descripcion": "Productos ecológicos para el cuidado de mascotas.",
+        "estado": "aceptado",
+        "dueno": "Elena Ruiz",
+        "correo": "elena.ruiz@ecopets.com"
+    },
+    {
+        "id": 8,
+        "titulo": "Artesanías MX",
+        "foto": "https://picsum.photos/id/249/200/300",
+        "descripcion": "Artesanías mexicanas hechas a mano.",
+        "estado": "pendiente",
+        "dueno": "Andrés Herrera",
+        "correo": "andres.herrera@artesaniasmx.com"
+    },
+    {
+        "id": 9,
+        "titulo": "Healthy Bites",
+        "foto": "https://picsum.photos/id/250/200/300",
+        "descripcion": "Snacks saludables y opciones vegetarianas.",
+        "estado": "aceptado",
+        "dueno": "María Fernández",
+        "correo": "maria.fernandez@healthybites.com"
+    },
+    {
+        "id": 10,
+        "titulo": "Casa Verde",
+        "foto": "https://picsum.photos/id/248/200/300",
+        "descripcion": "Consultoría para hogares sostenibles y energías renovables.",
+        "estado": "aceptado",
+        "dueno": "Sofía Jiménez",
+        "correo": "sofia.jimenez@casaverde.com"
+    },
+    {
+        "id": 11,
+        "titulo": "Crafty Corner",
+        "foto": "https://picsum.photos/id/247/200/300",
+        "descripcion": "Tienda de artesanías y decoración para el hogar.",
+        "estado": "pendiente",
+        "dueno": "Miguel Castro",
+        "correo": "miguel.castro@craftycorner.com"
+    },
+    {
+        "id": 12,
+        "titulo": "Bio Essentials",
+        "foto": "https://picsum.photos/id/24/200/300",
+        "descripcion": "Productos orgánicos para el cuidado de la piel y el cabello.",
+        "estado": "pendiente",
+        "dueno": "Isabel Morales",
+        "correo": "isabel.morales@bioessentials.com"
+    },
+    {
+        "id": 13,
+        "titulo": "Organic Bliss",
+        "foto": "https://picsum.photos/id/27/200/300",
+        "descripcion": "Venta de alimentos orgánicos y saludables para toda la familia.",
+        "estado": "aceptado",
+        "dueno": "Ricardo Álvarez",
+        "correo": "ricardo.alvarez@organicbliss.com"
+    },
+    {
+        "id": 14,
+        "titulo": "Tech Kids",
+        "foto": "https://picsum.photos/id/251/200/300",
+        "descripcion": "Cursos de programación y robótica para niños.",
+        "estado": "pendiente",
+        "dueno": "Patricia Vega",
+        "correo": "patricia.vega@techkids.com"
+    },
+    {
+        "id": 15,
+        "titulo": "English Academy",
+        "foto": "https://picsum.photos/id/290/200/300",
+        "descripcion": "Cursos de ingles.",
+        "estado": "pendiente",
+        "dueno": "Julio Ortiz",
+        "correo": "julio.ortiz@englishacademy.com"
+    },
+    {
+        "id": 16,
+        "titulo": "EcoFashion",
+        "foto": "https://picsum.photos/id/291/200/300",
+        "descripcion": "Ropa y accesorios de moda sostenible.",
+        "estado": "pendiente",
+        "dueno": "Mónica Delgado",
+        "correo": "monica.delgado@ecofashion.com"
+    },
+    {
+        "id": 17,
+        "titulo": "EcoKids",
+        "foto": "https://picsum.photos/id/292/200/300",
+        "descripcion": "Juguetes ecológicos y educativos para niños.",
+        "estado": "pendiente",
+        "dueno": "Eduardo Vargas",
+        "correo": "eduardo.vargas@ecokids.com"
+    },
+    {
+        "id": 18,
+        "titulo": "EcoTech",
+        "foto": "https://picsum.photos/id/293/200/300",
+        "descripcion": "Productos tecnológicos ecológicos y sostenibles.",
+        "estado": "pendiente",
+        "dueno": "Silvia Torres",
+        "correo": "silvia.torres@ecotech.com"
+    },
+    {
+        "id": 19,
+        "titulo": "EcoTravel",
+        "foto": "https://picsum.photos/id/294/200/300",
+        "descripcion": "Agencia de viajes especializada en turismo sostenible.",
+        "estado": "pendiente",
+        "dueno": "Héctor Rojas",
+        "correo": "hector.rojas@ecotravel.com"
+    },
+    {
+        "id": 20,
+        "titulo": "EcoWork",
+        "foto": "https://picsum.photos/id/295/200/300",
+        "descripcion": "Espacio de coworking ecológico y sostenible.",
+        "estado": "pendiente",
+        "dueno": "Daniela Mendoza",
+        "correo": "daniela.mendoza@ecowork.com"
+    },
+    {
+        "id": 21,
+        "titulo": "EcoYoga",
+        "foto": "https://picsum.photos/id/296/200/300",
+        "descripcion": "Estudio de yoga ecológico y sostenible.",
+        "estado": "pendiente",
+        "dueno": "Pablo Herrera",
+        "correo": "pablo.herrera@ecoyoga.com"
+    }
+]
