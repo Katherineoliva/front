@@ -1,5 +1,5 @@
 import axios from "axios";
-const BASE_URL = 'https://backend-ten-kappa-16.vercel.app/api/user';
+const BASE_URL = 'https://backend-nfna0rvtf-katherines-projects-8be5cda4.vercel.app/api/user';
 
 
 const getToken = () => JSON.parse(localStorage.getItem('token')).token;
