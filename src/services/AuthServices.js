@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = 'http://localhost:8080/api';
+const BASE_URL = 'https://backend-ten-kappa-16.vercel.app/api';
 
 export const AuthConecction = async (data) => {
 

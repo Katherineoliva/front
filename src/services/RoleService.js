@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = 'http://localhost:8080/api/role';
+const BASE_URL = 'https://backend-ten-kappa-16.vercel.app/api/role';
 
 const getToken = () => JSON.parse(localStorage.getItem('token')).token;
 
